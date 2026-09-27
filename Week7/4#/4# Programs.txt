@@ -1,0 +1,15 @@
+4. Change and Display Working Directory (cd, pwd)
+
+•	cd (change directory): Navigates through the file system.
+o	Example: cd ~/new_directory (Searches in /c/Users/[Name]/)
+	Example: cd ./new_directory (If new_directory is in same directory as where Git Bash Is running from)
+
+o	Shortcuts: cd .. (up one level), cd (to home), cd - (to previous directory).
+
+•	pwd (print working directory): Shows your current location.
+o	Example:
+	Bash
+	$ cd [Path]/new_directory
+	
+	$ pwd
+	[Path]/new_directory

@@ -1,0 +1,13 @@
+2. Copy, Move, and Remove Files (cp, mv, rm)
+These are essential commands for managing files.
+
+•	cp (copy): Creates a duplicate of a file.
+o	Example: cp copy.txt copy_backup.txt
+
+•	mv (move): Moves or renames a file.
+o	Rename Example: mv rename.txt new_rename.txt
+o	Move Example: mv move.txt ./moved/
+
+•	rm (remove): Deletes files. This is permanent!
+o	Example: rm delete.txt
+o	To remove a directory and its contents, use the recursive -r flag: rm -r old_project/

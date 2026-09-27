@@ -1,0 +1,10 @@
+3. Create and Delete Directories (mkdir, rmdir)
+
+•	mkdir (make directory): Creates a new directory.
+o	Example: mkdir create_directory
+o	To create a nested path, use -p: mkdir -p create_directory/src/main
+
+•	rmdir (remove directory): Deletes empty directories.
+o	Example: rmdir remove_directory
+o	Note: rmdir will fail if the directory contains files. Use rm -r instead.
+o       To remove a directory and its contents, use the recursive -r flag: rm -r remove_directory/
